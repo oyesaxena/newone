@@ -1,0 +1,17 @@
+body{background-color: powderblue}
+        hr{
+            background-color: powderblue;
+            border-color: grey;
+            border-width: 10px;
+            border-style: none;
+            height: 0px;
+            width: 20%;
+            border-top-style: dotted;
+        }
+        h1{
+            color: #9da802;
+        }
+        h2{
+            color:#9da802;
+        }
+    
